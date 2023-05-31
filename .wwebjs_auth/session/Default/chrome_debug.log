@@ -1,0 +1,11 @@
+[1014/090622.629:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~bootstrap_qr.209e2422be3255e9cea6.js (7)
+[1014/090704.872:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1014/090704.898:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1014/094339.272:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.84c47298b7b7770a5c50.worker.js (1)
+[1014/094339.272:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~bootstrap_qr.209e2422be3255e9cea6.js (7)
+[1014/094341.187:INFO:CONSOLE(1)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.84c47298b7b7770a5c50.worker.js (1)
+[1014/094341.188:INFO:CONSOLE(1)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.84c47298b7b7770a5c50.worker.js (1)
+[1014/094341.418:INFO:CONSOLE(7)] "Dexie.delete('model-storage') was blocked", source: https://web.whatsapp.com/vendor1~bootstrap_qr.209e2422be3255e9cea6.js (7)
+[1014/094344.041:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[1014/094344.973:INFO:CONSOLE(1)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self' data: blob:". Either the 'unsafe-inline' keyword, a hash ('sha256-8StEYqCRZcc6KLATZgvty1WmbhiLWXhDGKW8XNZQ9So='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://web.whatsapp.com/ (1)
